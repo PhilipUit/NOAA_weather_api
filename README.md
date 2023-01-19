@@ -11,15 +11,6 @@ Requirements for the assignment
 Using the NOAA API, retrieve data for a weather station of your choice. Based on the station you pick,
 
 Determine an appropriate dataset
-Determine an appropriatedataset type
-Pull at least 3 years worth of data.
-Note: if you pick an annual dataset, you will need to pull at least 25 years worth of data.
-Organize your results into a meaningful representation
-Store your result in one of the followinf formats:
-csv file
-json file
-relational database
-About the dataset:
 I choose to use a dataset that is relevant to me. This dataset station ID & info is from the website: https://www.ncdc.noaa.gov/cdo-web/datatools/findstation.
 
 I choose to use data from a local Lakewood, Colorado station (station id:GHCND:USC00055402) that is a collection of Max daily temperatures. (TMAX) Since we need 3 years of data, I pulled daily data from years 2016 - 2018.
