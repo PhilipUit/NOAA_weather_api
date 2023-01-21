@@ -6,13 +6,13 @@ We will be working with NOAAs weather API. This API will allow you to retrieve a
 ### As the API documentation page states, you will need to register for your own credentials. Following the instructions at https://www.ncdc.noaa.gov/cdo-web/token to register.
 Now we need to determine a weather station that we would like to retrieve our data for. Use the following link to get the id for a NOAA weather station. https://www.ncdc.noaa.gov/cdo-web/datatools/findstation"
 
-Requirements for the assignment
+Requirements:
 Using the NOAA API, retrieve data for a weather station of your choice. Based on the station you pick,
 
-Determine an appropriate dataset
+Determine an appropriate dataset:
 I choose to use a dataset that is relevant to me. This dataset station ID & info is from the website: https://www.ncdc.noaa.gov/cdo-web/datatools/findstation.
 
-I choose to use data from a local Lakewood, Colorado station (station id:GHCND:USC00055402) that is a collection of Max daily temperatures. (TMAX) Since we need 3 years of data, I pulled daily data from years 2016 - 2018.
+I choose to use data from a local Colorado station (station id:GHCND:USC00055402) that is a collection of Max daily temperatures. (TMAX) Since we need 3 years of data, I pulled daily data from years 2016 - 2018.
 
 #### Setup/Intro:
 Determine an appropriate dataset/Determine an appropriate dataset type -
