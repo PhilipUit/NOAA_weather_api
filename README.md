@@ -10,9 +10,9 @@ Requirements:
 - Using the NOAA API, retrieve data for a weather station of your choice. Based on the station you pick,
 
 Determine an appropriate dataset:
-I choose to use a dataset that is relevant to me. This dataset station ID & info is from the website: https://www.ncdc.noaa.gov/cdo-web/datatools/findstation.
+- I choose to use a dataset that is relevant to me. This dataset station ID & info is from the website: https://www.ncdc.noaa.gov/cdo-web/datatools/findstation.
 
-I choose to use data from a local Colorado station (station id:GHCND:USC00055402) that is a collection of Max daily temperatures. (TMAX) Since we need 3 years of data, I pulled daily data from years 2016 - 2018.
+- I choose to use data from a local Colorado station (station id:GHCND:USC00055402) that is a collection of Max daily temperatures. (TMAX) Since we need 3 years of data, I pulled daily data from years 2016 - 2018.
 
 #### Setup/Intro:
 Determine an appropriate dataset/Determine an appropriate dataset type -
