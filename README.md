@@ -14,7 +14,7 @@ I choose to use a dataset that is relevant to me. This dataset station ID & info
 
 I choose to use data from a local Lakewood, Colorado station (station id:GHCND:USC00055402) that is a collection of Max daily temperatures. (TMAX) Since we need 3 years of data, I pulled daily data from years 2016 - 2018.
 
-Setup/Intro:
+#### Setup/Intro:
 Determine an appropriate dataset/Determine an appropriate dataset type -
 Before starting, we need to make sure that we have an appropriate dataset. We will use data found from a local Lakewood, CO station. We will look at MAX daily temperature data, which is relevant to the the average dataset outlined in the demo, is similar in structure, and is appropriate to work on in this assignment as it is different but similar, intersting to me personally, and also will pull from 3 years of data as outlined spanning from years 2016-2018 found here:https://www.ncdc.noaa.gov/cdo-web/webservices/v2#dataTypes. Since we can only pull 1 year of data at a time, we will pull all 3 years seperately and then will combine them into one master dataframe before we put into a csv to finalize the assignment later on.
 
