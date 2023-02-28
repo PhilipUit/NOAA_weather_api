@@ -1,7 +1,7 @@
 # NOAA_weather_api
 We will be working with NOAAs weather API. This API will allow you to retrieve a variety of data from a specific weather station(s), of your choice.
 
-### API Documentation: https://www.ncdc.noaa.gov/cdo-web/webservices/v2#gettingStarted
+#### API Documentation: https://www.ncdc.noaa.gov/cdo-web/webservices/v2#gettingStarted
 
 ### **As the API documentation page states, you will need to register for your own credentials.** Following the instructions at https://www.ncdc.noaa.gov/cdo-web/token to register.
 - Now we need to determine a weather station that we would like to retrieve our data for. Use the following link to get the id for a NOAA weather station. https://www.ncdc.noaa.gov/cdo-web/datatools/findstation"
